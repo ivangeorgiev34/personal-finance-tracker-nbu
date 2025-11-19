@@ -1,7 +1,7 @@
 ﻿using PersonalFinanceTracker.Core.Data;
 using PersonalFinanceTracker.Core.Data.Enums;
 
-//Ivan Georgiev F114584
+//Ivan Antonov Georgiev F114584
 namespace PersonalFinanceTracker.Core.Utils
 {
     /// <summary>

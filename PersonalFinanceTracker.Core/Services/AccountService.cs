@@ -3,7 +3,7 @@ using PersonalFinanceTracker.Core.Data.Enums;
 using PersonalFinanceTracker.Core.Services.Contracts;
 using PersonalFinanceTracker.Core.Utils;
 
-//Ivan Georgiev F114584
+//Ivan Antonov Georgiev F114584
 namespace PersonalFinanceTracker.Core.Services
 {
     /// <summary>

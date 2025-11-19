@@ -1,6 +1,6 @@
 ﻿using PersonalFinanceTracker.Core.Data;
 
-//Ivan Georgiev F114584
+//Ivan Antonov Georgiev F114584
 namespace PersonalFinanceTracker.UI.Forms
 {
     /// <summary>
