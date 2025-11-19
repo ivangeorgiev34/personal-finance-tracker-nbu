@@ -1,5 +1,9 @@
-﻿namespace PersonalFinanceTracker.Core.Data
+﻿//Ivan Georgiev F114584
+namespace PersonalFinanceTracker.Core.Data
 {
+    /// <summary>
+    /// Singleton Account class responsible for manaing the account of the user for the entire app lifetime
+    /// </summary>
     public class Account
     {
         private static Account _instance;
@@ -9,6 +13,9 @@
             Transactions = new List<Transaction>();
         }
 
+        /// <summary>
+        /// Gets singleton instance
+        /// </summary>
         public static Account Instance
         {
             get
