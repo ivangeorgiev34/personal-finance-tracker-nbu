@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceTracker", "PersonalFinanceTracker.csproj", "{990566B3-99E6-4E60-BA1B-04C7A5E65252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceTracker.Core", "..\PersonalFinanceTracker.Core\PersonalFinanceTracker.Core.csproj", "{A5895711-17B5-4925-B2DF-FD61EE96C566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{990566B3-99E6-4E60-BA1B-04C7A5E65252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990566B3-99E6-4E60-BA1B-04C7A5E65252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990566B3-99E6-4E60-BA1B-04C7A5E65252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990566B3-99E6-4E60-BA1B-04C7A5E65252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5895711-17B5-4925-B2DF-FD61EE96C566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5895711-17B5-4925-B2DF-FD61EE96C566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5895711-17B5-4925-B2DF-FD61EE96C566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5895711-17B5-4925-B2DF-FD61EE96C566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32899048-823F-4012-85E9-A4CA32913A8C}
+	EndGlobalSection
+EndGlobal
